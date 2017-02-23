@@ -12,6 +12,6 @@ setup(name='griddedSatelliteData',
       license='LDEO',
       packages=['griddedSatelliteData'],
       install_requires=[
-          'numpy','scipy','xarray','gsw','pynio'
+          'numpy','scipy','xarray','gsw'
       ],
       zip_safe=False)
